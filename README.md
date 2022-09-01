@@ -27,6 +27,12 @@
 
 ---
 
+### 🐍 Contribution Snake
+  
+  ![Snake animation](https://github.com/AlexPap1/AlexPap1/blob/output/github-contribution-grid-snake.gif)
+  
+---
+
 ### 📫 How to reach me:
 
 
