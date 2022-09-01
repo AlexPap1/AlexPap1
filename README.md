@@ -14,7 +14,7 @@
 ### 📫 How to reach me:
 
 
- <a href="https://www.linkedin.com/in/alex-pappagallo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="[https://github.com/AlexPap1/AlexPap1/files/9462314/_Resume.Updated.8_26_2022.docx.2.pdf](https://github.com/AlexPap1/AlexPap1/files/9462327/Resume.pdf)" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a> <a href="mailto:arpappagallo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/alex-pappagallo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="[_Resume Updated 8_26_2022.docx (2).pdf](https://github.com/AlexPap1/AlexPap1/files/9471128/_Resume.Updated.8_26_2022.docx.2.pdf)" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a> <a href="mailto:arpappagallo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
