@@ -11,6 +11,22 @@
 
 ---
 
+### ⚙️ My Resources
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%4DB33D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.JS-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=brightgreen)
+![Git](https://img.shields.io/badge/Git-F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-6762A6.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
 ### 📫 How to reach me:
 
 
