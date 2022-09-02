@@ -35,6 +35,10 @@
 
 ---
 
+ ![Snake animation](https://github.com/AlexPap1/AlexPap1/blob/output/github-contribution-grid-snake.gif)
+ 
+ ---
+
 ### 👏 Thank you for viewing! -Alex Pappagallo
 
 
