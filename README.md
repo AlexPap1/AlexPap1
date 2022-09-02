@@ -1,4 +1,5 @@
-### Nice to Meet you! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Nice+To+Meet+You)](https://git.io/typing-svg) 
+
 
 ---
 
