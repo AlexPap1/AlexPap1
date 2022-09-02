@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Nice+To+Meet+You!)](https://git.io/typing-svg) 
 
-
 ---
 
 ### 😄 Pronouns: He/Him
@@ -34,10 +33,6 @@
 <a href="https://docs.google.com/document/d/1SJbwBUREiXt92Z-6TsgTVn92VN35MG76/edit?usp=sharing&ouid=111660145846656949139&rtpof=true&sd=true" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a> <a href="https://www.linkedin.com/in/alex-pappagallo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:arpappagallo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
-
- ![Snake animation](https://github.com/AlexPap1/AlexPap1/blob/output/github-contribution-grid-snake.gif)
- 
- ---
 
 ### 👏 Thank you for viewing! -Alex Pappagallo
 
